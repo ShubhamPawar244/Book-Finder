@@ -22,7 +22,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## Technologies Used
 
-- *React*_: JavaScript library for building user interfaces.
+- *React*: JavaScript library for building user interfaces.
 - *Axios*: Promise-based HTTP client for the browser and Node.js, used for API requests.
 - *Google Books API*: API used to fetch book data.
 - *CSS*: For basic styling and layout of the application.
